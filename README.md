@@ -1,7 +1,5 @@
 # InternetWhisper: Conversational AI Chatbot with Internet Access
 
-![InternetWhisper](https://github.com/santiagomorillosegovia/InternetWhisper/assets/28943730/26840b24-92d3-4ddf-bbd1-82cc6b992c7f)
-
 ## Project Overview
 InternetWhisper is an advanced conversational AI chatbot inspired by platforms like You.com and Google's Bard. It combines the power of generative AI with real-time internet access to provide accurate and up-to-date information. The chatbot leverages Redis Vector DB for caching previously retrieved data, reducing redundant internet queries, and integrates Google's Custom Search API for web scraping.
 
